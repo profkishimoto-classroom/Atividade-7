@@ -83,4 +83,4 @@ O Blender é um software de código aberto para modelagem 3D, animação, simula
 - [Wikipedia: OpenGL](https://pt.wikipedia.org/wiki/OpenGL)  
 - [Programaê: Glossário - O que é OpenGL e para que serve?](https://programae.org.br/termos/glossario/o-que-e-opengl-e-para-que-serve/)  
 - [UFAL: OpenGL](https://ic.ufal.br/professor/thales/OpenGL.pdf)  
-- ChatGPT  
+- [ChatGPT](https://chatgpt.com)
